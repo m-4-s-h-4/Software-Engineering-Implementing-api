@@ -1,0 +1,7 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/harbour/eats/api/ApiUtil.java
+src/main/java/com/harbour/eats/api/CouriersApi.java
+src/main/java/com/harbour/eats/model/CourierAchievements.java
+src/main/java/com/harbour/eats/model/CurrentQuestProgress.java
